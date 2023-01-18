@@ -14,5 +14,5 @@ Analysis of the Nuclear Plants dataset:
 
 MapReduce for Margie Travel dataset:
 - Determine the number of flights from each airport; include a list of any airports not used.
-Create a list of flights based on the Flight id, this output should include number of passengers, relevant IATA/FAA codes, and departure and arrival times (times converted to HH:MM format).
+- Create a list of flights based on the Flight id, this output should include number of passengers, relevant IATA/FAA codes, and departure and arrival times (times converted to HH:MM format).
 - Calculate the line-of-sight (nautical) miles for each flight and the total travelled by each passenger and thus output the passenger having earned the highest air miles.
